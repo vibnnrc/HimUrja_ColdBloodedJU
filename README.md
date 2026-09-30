@@ -5,6 +5,7 @@
 HimUrja (*Him* = snow, *Urja* = energy) is an offline-first energy-management system for India's Antarctic stations **Maitri** and **Bharati**. It runs today's gensets and the wind, solar PV and battery that we propose to add (none is described in the station documents). It forecasts station demand with machine learning, forecasts wind/solar with physics, and computes the fuel-optimal hourly schedule of gensets, battery, electric boiler and flexible loads - explaining every decision in plain language.
 
 YOUTUBE DEMO VIDEO LINK : https://youtu.be/pVfLimNKBWc?si=-6_dAU5cdrUUmZnL
+LIVE WEBSITE LINK : https://himurja.vercel.app
 
 ## What the prototype does
 
